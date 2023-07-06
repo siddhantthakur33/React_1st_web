@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/siddhantthakur33/React_1st_web/static/css/main.31d6cfe0.css",
+    "main.js": "/siddhantthakur33/React_1st_web/static/js/main.7dc89165.js",
+    "static/js/787.60235f71.chunk.js": "/siddhantthakur33/React_1st_web/static/js/787.60235f71.chunk.js",
+    "index.html": "/siddhantthakur33/React_1st_web/index.html",
+    "main.7dc89165.js.map": "/siddhantthakur33/React_1st_web/static/js/main.7dc89165.js.map",
+    "787.60235f71.chunk.js.map": "/siddhantthakur33/React_1st_web/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7dc89165.js"
+  ]
+}
