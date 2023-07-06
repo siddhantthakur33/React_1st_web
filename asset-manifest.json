@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/siddhantthakur33/React_1st_web.git/static/css/main.31d6cfe0.css",
-    "main.js": "/siddhantthakur33/React_1st_web.git/static/js/main.79ac7f59.js",
-    "static/js/787.60235f71.chunk.js": "/siddhantthakur33/React_1st_web.git/static/js/787.60235f71.chunk.js",
-    "index.html": "/siddhantthakur33/React_1st_web.git/index.html",
-    "main.79ac7f59.js.map": "/siddhantthakur33/React_1st_web.git/static/js/main.79ac7f59.js.map",
-    "787.60235f71.chunk.js.map": "/siddhantthakur33/React_1st_web.git/static/js/787.60235f71.chunk.js.map"
+    "main.css": "/siddhantthakur33/React_1st_test.git/static/css/main.31d6cfe0.css",
+    "main.js": "/siddhantthakur33/React_1st_test.git/static/js/main.d73ce6f2.js",
+    "static/js/787.60235f71.chunk.js": "/siddhantthakur33/React_1st_test.git/static/js/787.60235f71.chunk.js",
+    "index.html": "/siddhantthakur33/React_1st_test.git/index.html",
+    "main.d73ce6f2.js.map": "/siddhantthakur33/React_1st_test.git/static/js/main.d73ce6f2.js.map",
+    "787.60235f71.chunk.js.map": "/siddhantthakur33/React_1st_test.git/static/js/787.60235f71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.79ac7f59.js"
+    "static/js/main.d73ce6f2.js"
   ]
 }
